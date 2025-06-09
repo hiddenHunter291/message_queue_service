@@ -2,7 +2,7 @@
 
 Overview
 
-The E-commerce Message Queue Service is a Go-based application that provides reliable and efficient communication between different components of an e-commerce backend system. It leverages Apache Kafka as the message broker to ensure scalable and high-throughput message processing.
+The Message Queue Service is a Go-based application that provides reliable and efficient communication between different components of an e-commerce backend system. It leverages Apache Kafka as the message broker to ensure scalable and high-throughput message processing.
 
 Features
 
